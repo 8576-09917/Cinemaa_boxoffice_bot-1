@@ -215,11 +215,18 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-▫️Movies Group : <a href="https://t.me/Tseries112">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
+⚡️Buy Premium Now⚡️
+<a href="https://t.me/Atom_zero">
+    ╭━━━━━━━━╮
+    Premium Plans
+  • 59 Rs - 1 Month
+  • 35Rs (for demo) - 15 Days
+  • 149Rs - 3 Months
+    ╰━━━━━━━━╯</a>
 
-▫️Support ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/movies_1782_support">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
- 
-▫️For Premium Contents: @Atom_zero & @movies_1782</b>"""
+ᴜᴘɪ ɪᴅ ➢👇 anil-9133@paytm
+
+<a href="https://t.me/Atom_zero">😈SEND SCREEN SHOT AFTER PAYMENT🤠</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
